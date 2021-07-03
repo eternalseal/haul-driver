@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/haul-driver/static/css/main.adb2b72c.chunk.css",
+    "main.js": "/haul-driver/static/js/main.36830204.chunk.js",
+    "main.js.map": "/haul-driver/static/js/main.36830204.chunk.js.map",
+    "runtime-main.js": "/haul-driver/static/js/runtime-main.0f2912df.js",
+    "runtime-main.js.map": "/haul-driver/static/js/runtime-main.0f2912df.js.map",
+    "static/css/2.a35050b0.chunk.css": "/haul-driver/static/css/2.a35050b0.chunk.css",
+    "static/js/2.4a0ce003.chunk.js": "/haul-driver/static/js/2.4a0ce003.chunk.js",
+    "static/js/2.4a0ce003.chunk.js.map": "/haul-driver/static/js/2.4a0ce003.chunk.js.map",
+    "index.html": "/haul-driver/index.html",
+    "precache-manifest.540483a90b00975baa7549a6b715a915.js": "/haul-driver/precache-manifest.540483a90b00975baa7549a6b715a915.js",
+    "service-worker.js": "/haul-driver/service-worker.js",
+    "static/css/2.a35050b0.chunk.css.map": "/haul-driver/static/css/2.a35050b0.chunk.css.map",
+    "static/css/main.adb2b72c.chunk.css.map": "/haul-driver/static/css/main.adb2b72c.chunk.css.map",
+    "static/js/2.4a0ce003.chunk.js.LICENSE.txt": "/haul-driver/static/js/2.4a0ce003.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/haul-driver/static/media/fa-solid-900.9ae050d1.woff2",
+    "static/media/react-logo-transparent.svg": "/haul-driver/static/media/react-logo-transparent.f7d45c01.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2912df.js",
+    "static/css/2.a35050b0.chunk.css",
+    "static/js/2.4a0ce003.chunk.js",
+    "static/css/main.adb2b72c.chunk.css",
+    "static/js/main.36830204.chunk.js"
+  ]
+}
